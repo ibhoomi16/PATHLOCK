@@ -5,3 +5,5 @@ PLC2 - Deploy Link for frontend only: [pathlock-kjrhm953u-bhoos-projects-ac70bf3
 
 PLC3 - Deploy Link for frontend only: [pathlock-4epa-7ujudk71t-bhoos-projects-ac70bf3f.vercel.app](https://pathlock-4epa-7ujudk71t-bhoos-projects-ac70bf3f.vercel.app)
 ````
+
+DUE to time shortage I only deployed the frontend code but not backend code but I have checked loclally whole proeject is worKing with its backend anf frontend properly
