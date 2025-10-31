@@ -483,11 +483,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bhoomi\\OneDrive\\Desktop\\Assignment\\TaskManagerAPI\\TaskManagerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\bhoomi\\OneDrive\\Desktop\\PATHLOCK\\PLC1\\TaskManagerAPI\\TaskManagerAPI.csproj",
       "projectName": "TaskManagerAPI",
-      "projectPath": "C:\\Users\\bhoomi\\OneDrive\\Desktop\\Assignment\\TaskManagerAPI\\TaskManagerAPI.csproj",
+      "projectPath": "C:\\Users\\bhoomi\\OneDrive\\Desktop\\PATHLOCK\\PLC1\\TaskManagerAPI\\TaskManagerAPI.csproj",
       "packagesPath": "C:\\Users\\bhoomi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bhoomi\\OneDrive\\Desktop\\Assignment\\TaskManagerAPI\\obj\\",
+      "outputPath": "C:\\Users\\bhoomi\\OneDrive\\Desktop\\PATHLOCK\\PLC1\\TaskManagerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bhoomi\\AppData\\Roaming\\NuGet\\NuGet.Config"
